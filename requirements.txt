@@ -1,0 +1,12 @@
+llama-index-core>=0.10.40
+llama-index-readers-file>=0.1.8
+llama-index-multi-modal-llms>=0.1.6
+llama-index-embeddings-openclip>=0.1.3
+llama-index-vector-stores-faiss>=0.1.3
+unstructured[local-inference]>=0.10.10
+open_clip_torch>=2.27.0
+transformers>=4.38.0
+torch>=2.1.0
+Pillow>=9.0.0
+faiss-cpu>=1.8.0
+numpy>=1.21.0
