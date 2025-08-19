@@ -5,7 +5,7 @@ multimodal-rag-challenge/
 │   ├── 财报数据库/                ← 放入提供的财报数据库.zip 解压后的内容
 │   ├── train.json
 │   ├── test.json
-│   └── sample_submit.json
+│   └── example.json
 │
 ├── src/
 │   ├── build_index.py           ← 构建多模态索引
